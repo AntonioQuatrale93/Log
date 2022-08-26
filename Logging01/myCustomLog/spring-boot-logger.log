@@ -1,0 +1,77 @@
+2022-08-26 12:38:53,454 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting Logging01Application using Java 17.0.2 on Antonio with PID 2844 (C:\Users\anton\OneDrive\Desktop\Logging01\target\classes started by anton in C:\Users\anton\OneDrive\Desktop\Logging01)
+2022-08-26 12:38:53,456 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-08-26 12:38:53,505 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-08-26 12:38:53,507 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-08-26 12:38:54,412 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-08-26 12:38:54,423 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-08-26 12:38:54,424 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-08-26 12:38:54,425 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-26 12:38:54,481 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-08-26 12:38:54,482 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 975 ms
+2022-08-26 12:38:54,819 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-08-26 12:38:54,830 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-08-26 12:38:54,855 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-08-26 12:38:54,868 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Logging01Application in 1.91 seconds (JVM running for 2.313)
+2022-08-26 12:38:56,177 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-26 12:38:56,178 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Initializing Servlet 'dispatcherServlet'
+2022-08-26 12:38:56,190 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-2] Completed initialization in 12 ms
+2022-08-26 12:38:56,217 ERROR it.develhope.Logging01.services.BasicServices [http-nio-8080-exec-2] There is an error
+2022-08-26 12:43:18,967 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting Logging01Application using Java 17.0.2 on Antonio with PID 1788 (C:\Users\anton\OneDrive\Desktop\Logging01\target\classes started by anton in C:\Users\anton\OneDrive\Desktop\Logging01)
+2022-08-26 12:43:18,969 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-08-26 12:43:19,022 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-08-26 12:43:19,023 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-08-26 12:43:20,013 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-08-26 12:43:20,022 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-08-26 12:43:20,023 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-08-26 12:43:20,023 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-26 12:43:20,076 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-08-26 12:43:20,076 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1053 ms
+2022-08-26 12:43:20,532 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-08-26 12:43:20,545 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-08-26 12:43:20,604 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-08-26 12:43:20,621 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Logging01Application in 2.15 seconds (JVM running for 2.52)
+2022-08-26 12:43:25,263 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-26 12:43:25,264 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-08-26 12:43:25,266 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 2 ms
+2022-08-26 12:43:37,807 DEBUG it.develhope.Logging01.services.BasicServices [http-nio-8080-exec-2] Start power
+2022-08-26 12:43:37,812 DEBUG it.develhope.Logging01.services.BasicServices [http-nio-8080-exec-2] End power
+2022-08-26 12:43:56,097 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting Logging01Application using Java 17.0.2 on Antonio with PID 16048 (C:\Users\anton\OneDrive\Desktop\Logging01\target\classes started by anton in C:\Users\anton\OneDrive\Desktop\Logging01)
+2022-08-26 12:43:56,099 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-08-26 12:43:56,151 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-08-26 12:43:56,151 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-08-26 12:43:57,058 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-08-26 12:43:57,067 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-08-26 12:43:57,067 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-08-26 12:43:57,067 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-26 12:43:57,121 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-08-26 12:43:57,121 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 969 ms
+2022-08-26 12:43:57,423 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-08-26 12:43:57,434 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-08-26 12:43:57,454 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-08-26 12:43:57,462 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Logging01Application in 1.807 seconds (JVM running for 2.172)
+2022-08-26 12:44:06,252 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-26 12:44:06,252 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-08-26 12:44:06,253 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 0 ms
+2022-08-26 12:44:06,276 DEBUG it.develhope.Logging01.services.BasicServices [http-nio-8080-exec-1] Start power
+2022-08-26 12:44:06,279 DEBUG it.develhope.Logging01.services.BasicServices [http-nio-8080-exec-1] End power
+2022-08-26 12:44:34,365 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting Logging01Application using Java 17.0.2 on Antonio with PID 8300 (C:\Users\anton\OneDrive\Desktop\Logging01\target\classes started by anton in C:\Users\anton\OneDrive\Desktop\Logging01)
+2022-08-26 12:44:34,367 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-08-26 12:44:34,423 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-08-26 12:44:34,423 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-08-26 12:44:35,398 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-08-26 12:44:35,409 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-08-26 12:44:35,413 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-08-26 12:44:35,414 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-08-26 12:44:35,466 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-08-26 12:44:35,467 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1043 ms
+2022-08-26 12:44:35,784 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-08-26 12:44:35,794 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-08-26 12:44:35,822 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-08-26 12:44:35,839 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Logging01Application in 1.914 seconds (JVM running for 2.271)
+2022-08-26 12:44:38,098 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-08-26 12:44:38,098 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-08-26 12:44:38,100 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2022-08-26 12:44:38,123 DEBUG it.develhope.Logging01.services.BasicServices [http-nio-8080-exec-1] Start power
+2022-08-26 12:44:38,126 DEBUG it.develhope.Logging01.services.BasicServices [http-nio-8080-exec-1] End power
+2022-08-26 12:44:40,274 DEBUG it.develhope.Logging01.services.BasicServices [http-nio-8080-exec-3] Start power
+2022-08-26 12:44:40,275 DEBUG it.develhope.Logging01.services.BasicServices [http-nio-8080-exec-3] End power

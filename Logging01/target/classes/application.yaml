@@ -1,0 +1,10 @@
+spring:
+myCustomVarTree:
+    A: 2
+    B: 8
+
+
+---
+
+
+
